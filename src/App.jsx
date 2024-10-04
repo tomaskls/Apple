@@ -7,6 +7,8 @@ import { Aliuminium } from './components/Aluminium';
 import { Header } from './components/Header';
 import { Plug } from './components/Plug';
 import { Inovation } from './components/Inovation';
+import { Vision } from './components/Vision';
+import { Design } from './components/Design';
 
 const App = () => {
 
@@ -16,6 +18,8 @@ const App = () => {
 
 
     <Header />
+    <Vision />
+    <Design />
     <Plug />
     <Inovation />
     <Aliuminium />
