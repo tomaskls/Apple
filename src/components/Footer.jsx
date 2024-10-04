@@ -4,7 +4,7 @@ export const Footer = () => {
   return (
     <div className='footerContainer'>
       <div className="block-signup" id="buy">
-        <div className="container-default">
+        <div className="default">
           <h1 style={{ marginBottom: '10px' }} className="">
             Made by <a href="http://nicer.io" className="">Nicer</a>.
           </h1>
