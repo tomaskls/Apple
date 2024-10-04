@@ -34,7 +34,7 @@ export function Header() {
             <a href="#vision">Vision</a>
             <a href="#design">Design</a>
             <a href="#inovation">Inovation</a>
-            <button className="buyButton">Buy</button>
+            <a href="#buy"><button className="buyButton">Buy</button> </a>
           </div>
         </div>
       </div>
