@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+}
+ 
+.footerContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+ 
+.block-signup {
+    background-color: #eee;
+    padding: 20px;
+    text-align: center;
+   
+}
+ 
+.block-signup h1 {
+    display: block;
+    font-size: 2em;
+    color: #222;
+    font-weight: 300;
+}
+ 
+.block-signup p {
+    margin: 5px 0;
+    font-size: 14px;
+    line-height: 26px;
+    color: #222;
+}
+ 
+.block-signup {
+    text-align: center;
+    background: #eee;
+    padding: 30px 0 80px 0;
+}
+ 
+.block-signup a {
+    color: #222;
+    text-decoration: underline;
+}
+ 
+#mc_embed_signup {
+    text-align: center;
+    padding: 30px 0 80px 0;
+}
+ 
+.email {
+    font-size: 15px;
+    border: 1px solid #ABB0B2;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    color: #343434;
+    background-color: #fff;
+    box-sizing: border-box;
+    height: 32px;
+    padding: 0px 0.4em;
+    display: inline-block;
+    margin: 0;
+    width: 350px;
+    vertical-align: top;
+}
