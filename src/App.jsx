@@ -1,10 +1,14 @@
+
 import './App.css'
 import { Aliuminium } from './components/Aluminium'
 import { Header } from './components/Header'
 
-function App() {
 
+import './App.css';
+
+const App = () => {
   return (
+
     <>
     <Header />
     <Aliuminium />
@@ -12,4 +16,4 @@ function App() {
   )
 }
 
-export default App
+export default App;

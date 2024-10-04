@@ -1,0 +1,17 @@
+.container-default {
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content:space-between; 
+    padding: 20px; 
+  }
+  
+  .container-default img {
+    margin: 10px;
+    max-width: 150px;
+    height: auto;
+     
+
+  }
+  
+
+  
