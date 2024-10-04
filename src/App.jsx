@@ -1,5 +1,5 @@
 import './App.css'
-import { Design } from './components/Design'
+import { Aliuminium } from './components/Aluminium'
 import { Header } from './components/Header'
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
   return (
     <>
     <Header />
-    <Design />
+    <Aliuminium />
     </>
   )
 }
