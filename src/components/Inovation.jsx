@@ -5,7 +5,7 @@ import aluminiumLBackwards from '../img/LbackwardsImage.png';
 export function Inovation () {
     return (
         <>
-        <div className='inovationSection'>
+        <div id='inovation' className='inovationSection'>
             <div className='inovationContentSection'>
                 <div className='textContent'>
                     <span className='inovationSpan'>Innovation</span>
