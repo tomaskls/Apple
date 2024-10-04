@@ -18,9 +18,9 @@ const App = () => {
 
 
     <Header />
+    <Plug />
     <Vision />
     <Design />
-    <Plug />
     <Inovation />
     <Aliuminium />
     <Cool />
