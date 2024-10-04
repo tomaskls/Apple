@@ -1,0 +1,24 @@
+body {
+    font-family: "myriad-pro", sans-serif;
+}
+
+.plugSection {
+    text-align: center;
+    padding-top: 75px;
+}
+
+.plugSection > img.logo {
+    width: 200px;
+    height: auto;
+}
+
+.plugSection > .lightestPara {
+    margin-top: 10px;
+    font-size: 36px;
+    font-weight: 100;
+}
+
+.plugSection > img.aluminum {
+    max-width: 2300px;
+    width: 65%;
+}
