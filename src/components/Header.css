@@ -1,0 +1,39 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.headerUp{
+    background-color: black;
+    width: 100%;
+    height: 30px;
+    padding-left: 20%;
+}
+.logo{
+    width: 30px;
+    height: 30px;
+}
+.headerD{
+width: 100%;
+height: 50px;
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding-left: 20%;
+padding-right: 20%;
+}
+.rightSide{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 20px;
+    padding-right: 30px;
+}
+.buyButton{
+    background-color: rgb(109, 109, 236);
+    color: white;
+    width: 50px;
+    padding: 5px;
+    border: 1px solid white;
+    border-radius: 5px;
+}
