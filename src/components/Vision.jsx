@@ -3,7 +3,7 @@ import './Vision.css'
 export function Vision () {
 
 return (
-<div className="vision">
+<div id='vision' className="vision">
     <div className="visionText">
         <p className='visionP'> Vision </p>
         <br />
