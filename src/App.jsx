@@ -1,6 +1,6 @@
 import './App.css'
 import { Design } from './components/Design.jsx'
-import {Vision} from './components/Vision.jsx'
+import { Vision } from './components/Vision.jsx'
 
 function App() {
 
