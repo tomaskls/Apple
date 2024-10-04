@@ -10,18 +10,20 @@
     padding-left: 20%;
     background-color: #e6e6e6;
     width: 100%;
+    padding-top: 20px;
+    padding-bottom: 50px;
 
     
 }
 .visionText {
-    width: 20%;
+    width: 40%;
 }
 .visionImg {
     width: 30%;
 }
 
 .visionP {
-    font-size: 1.2rem;
+    font-size: 1rem;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
