@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.aliuminium{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #CACACA;
+    padding-left: 20%;
+}
+.aliuminium img{
+    height: 300px;
+    width: 500px;
+}
+.aliuminium h1{
+    color: aliceblue;
+    font-size: 1.8rem;
+}
