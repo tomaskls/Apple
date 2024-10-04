@@ -1,15 +1,19 @@
-import React from 'react';
+
+import './App.css'
+import { Aliuminium } from './components/Aluminium'
+import { Header } from './components/Header'
+
 
 import './App.css';
 
 const App = () => {
   return (
-    <div>
-      <Cool />
-      <Just />
-      <Footer />
-    </div>
-  );
-};
+
+    <>
+    <Header />
+    <Aliuminium />
+    </>
+  )
+}
 
 export default App;
