@@ -11,7 +11,7 @@
     padding-left: 20%;
     background-color: rgb(233, 203, 203);
     width: 100%;
-    gap: 200px;
+    gap: 50px;
     padding-top: 30px;
     padding-bottom: 50px;
 
@@ -37,16 +37,16 @@
 }
 
 .img1 {
-    transform: translateY(50px) rotate(-5deg);
+    
     width: 100px;
 }
 .img2 {
-    transform: translateY(60px) rotate(2.5deg);
+    
     width: 100px;
 
 }
 .img3 {
-    transform: translateY(120px) rotate(-5deg);
+    
     width: 100px;
 
 }
