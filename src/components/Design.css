@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.design {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 20%;
+    background-color: white;
+    width: 100%;
+    gap: 200px;
+
+    
+}
+.designText {
+    width: 20%;
+}
+.image3 {
+    width: 30%;
+    position: relative;
+}
+
+.designP {
+    font-size: 1.2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.designH {
+    font-size: 1.8rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.img1 {
+    transform: translateY(50px) rotate(-5deg);
+}
+.img2 {
+    transform: translateY(60px) rotate(2.5deg)
+}
+.img3 {
+    transform: translateY(120px) rotate(-5deg)
+}

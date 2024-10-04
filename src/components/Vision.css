@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.vision {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 20%;
+    background-color: #e6e6e6;
+    width: 100%;
+
+    
+}
+.visionText {
+    width: 20%;
+}
+.visionImg {
+    width: 30%;
+}
+
+.visionP {
+    font-size: 1.2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.visionH {
+    font-size: 1.8rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

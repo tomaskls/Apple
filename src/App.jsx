@@ -14,6 +14,7 @@ const App = () => {
 
     <>
 
+
     <Header />
     <Plug />
     <Inovation />
@@ -21,6 +22,7 @@ const App = () => {
     <Cool />
     <Just />
     <Footer />
+
 
     </>
   );
